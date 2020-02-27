@@ -1,1 +1,3 @@
-function Mod() {}
+function Mod() {
+  return 0;
+}
